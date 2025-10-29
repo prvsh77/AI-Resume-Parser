@@ -1,0 +1,6 @@
+pdfminer.six
+python-docx
+spacy
+
+regex
+nltk
